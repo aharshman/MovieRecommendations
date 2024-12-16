@@ -81,7 +81,8 @@ Helper functions include:
 
 ```bash
 Enter the movie title: Deadpool
-Enter the release year (optional): 2016
+1. Deadpool (2016)
+2. Deadpool 2 (2018)
 ```
 
 The system will output similar movies, including their titles, ratings, and release dates.
